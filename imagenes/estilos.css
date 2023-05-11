@@ -1,0 +1,56 @@
+#logo{
+    
+    background: white no-repeat fixed ;    
+    padding-top: 10px; 
+    padding: 30px;
+}
+header img{
+    width: 200px;
+}
+nav{
+    display: inline-block;  
+   font-size: 14px;
+
+}
+ul li{
+    display: inline-block;
+    margin-right: 1px;
+  
+    
+}
+#H1{
+    color: rgb(237, 241, 3);
+    font-size: 50px;
+}
+#h2{
+    font-size: 14px;
+}
+
+
+
+#miravidh2{
+    color: black;
+}
+#h3p{
+    color: rgb(1, 236, 87);
+}
+#viñeta1{
+   margin-inline: 185px;
+   margin-block: 15px;
+  
+    
+}
+#secpg2{
+   
+    background: coral url(IMG.png) no-repeat fixed;
+    font-size: 85%;
+}
+h3{
+    color: aqua;
+}
+    
+
+#linkvid{
+    background: rgb(46, 109, 211) fixed ;
+   border: 2px ;
+}
